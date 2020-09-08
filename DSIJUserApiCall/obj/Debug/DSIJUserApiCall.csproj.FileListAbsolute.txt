@@ -1,0 +1,6 @@
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\bin\Debug\DSIJUserApiCall.exe.config
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\bin\Debug\DSIJUserApiCall.exe
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\bin\Debug\DSIJUserApiCall.pdb
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\obj\Debug\DSIJUserApiCall.csprojResolveAssemblyReference.cache
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\obj\Debug\DSIJUserApiCall.exe
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\obj\Debug\DSIJUserApiCall.pdb

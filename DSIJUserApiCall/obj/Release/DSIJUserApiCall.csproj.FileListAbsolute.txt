@@ -1,0 +1,6 @@
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\bin\Release\DSIJUserApiCall.exe.config
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\bin\Release\DSIJUserApiCall.exe
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\bin\Release\DSIJUserApiCall.pdb
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\obj\Release\DSIJUserApiCall.exe
+D:\Chetan\Demo Project\DSIJUserApiCall\DSIJUserApiCall\obj\Release\DSIJUserApiCall.pdb
